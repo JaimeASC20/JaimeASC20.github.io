@@ -1,0 +1,60 @@
+h2 {
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    h2 {
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.body {
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.first {
+    padding: 10px;
+    border-radius: 20px;
+    border-color: crimson;
+    border-style: solid;
+    background-color: darkgray;
+}
+
+.second {
+    padding: 10px;
+    border-radius: 20px;
+    border-color: crimson;
+    border-style: solid;
+    background-color: darkgray;
+}
+
+.third {
+    padding: 10px;
+    border-radius: 20px;
+    border-color: crimson;
+    border-style: solid;
+    background-color: darkgray;
+}
+
+.fourth {
+    padding: 10px;
+    border-radius: 20px;
+    border-color: crimson;
+    border-style: solid;
+    background-color: darkgray;
+}
+
+.fifth {
+    padding: 10px;
+    border-radius: 20px;
+    border-color: crimson;
+    border-style: solid;
+    background-color: darkgray;
+}
